@@ -51,3 +51,6 @@ npm-debug.log
 /database/migrations/*.php
 /database/migrations/DTE/*.php
 /database/seeds/*.php
+/database/migration/*.php
+/database/migration/DTE/*.php
+/database/seed/*.php
