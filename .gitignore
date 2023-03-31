@@ -48,5 +48,6 @@ npm-debug.log
 /public/modules/
 /public/mix-manifest.json
 
-/database/migrations/
-/database/seeds/
+/database/migrations/*.php
+/database/migrations/DTE/*.php
+/database/seeds/*.php
